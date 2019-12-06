@@ -1,0 +1,93 @@
+#heading{
+  color: rgb(241, 236, 236);
+  padding: 10px;
+  padding-left: 30px;
+  background-color: rgb(111, 138, 167);
+  text-align: Left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  margin: "auto"
+}
+
+#table-header{
+
+  color: rgb(111, 138, 167);
+ padding-left: 40%;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.ReactTable .rt-th {
+  padding-top: 20px;
+  height: 36px;
+  background-color: rgb(111, 138, 167);
+  font-weight: bolder;
+  font-style: Bold;
+  color: white;
+}
+
+.ReactTable .rt-tr {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(224, 233, 238);
+
+}
+
+.ReactTable .rt-tr:hover .rt-td{
+  background: rgb(226, 231, 199);
+}
+
+#btn1{
+  background-color: rgb(221, 231, 238); /* Green */
+  border: white;
+  color: rgb(184, 166, 166);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: none;
+  cursor: pointer;
+  line-height: 37px;
+  border-radius: 3px;
+  width: 200px;
+}
+
+#btn2 {
+  background-color: rgb(221, 231, 238); /* Green */
+  border: white;
+  color: rgb(184, 164, 164);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: none;
+  cursor: pointer;
+  line-height: 37px;
+  border-radius: 3px;
+  width: 200px;
+}
+
+#btn3{
+  background-color: rgb(146, 165, 201); /* Green */
+  border: white;
+  color: rgb(26, 15, 15);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: none;
+  cursor: pointer;
+  line-height: 37px;
+  border-radius: 3px;
+  width: 200px;
+}
+
+.btn6{
+  background-color: rgb(89, 209, 93);
+  border-radius: 5px;
+}
+
+#download{
+padding-left: 1220px;
+}
